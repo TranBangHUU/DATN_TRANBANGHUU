@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DOAN_AI</string>
+    <string name="default_web_client_id">569851818867-g0rk4jqa7ga2301e1npepdl5ete8ks8d.apps.googleusercontent.com</string>
+    <string-array name="occupations">
+        <item>Nông dân</item>
+        <item>Sinh viên nông nghiệp</item>
+        <item>Khác</item>
+    </string-array>
+</resources>

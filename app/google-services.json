@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569851818867",
+    "project_id": "aimobileapp-5c627",
+    "storage_bucket": "aimobileapp-5c627.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569851818867:android:620ee06ba3b0df5f8a4b06",
+        "android_client_info": {
+          "package_name": "com.example.doan_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569851818867-g0rk4jqa7ga2301e1npepdl5ete8ks8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doan_ai",
+            "certificate_hash": "14a1230834cacc661b4cc834146a20408ae9e302"
+          }
+        },
+        {
+          "client_id": "569851818867-b2ce3itvi9nm38cf4gbtmt5mji4fdrb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJQrFOCWhfZx6flMHRkSMMEh9Q1Fq8SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569851818867-b2ce3itvi9nm38cf4gbtmt5mji4fdrb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

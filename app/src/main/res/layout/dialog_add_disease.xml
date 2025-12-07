@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView style="@style/LabelStyle" android:text="Document ID (Khóa):" />
+    <EditText
+        android:id="@+id/edtDialogId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ví dụ: Apple___scab" />
+
+    <TextView style="@style/LabelStyle" android:text="Tên hiển thị (ten):" android:layout_marginTop="10dp"/>
+    <EditText
+        android:id="@+id/edtDialogTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView style="@style/LabelStyle" android:text="Mô tả (moTa):" android:layout_marginTop="10dp"/>
+    <EditText
+        android:id="@+id/edtDialogMoTa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minLines="3" android:gravity="top"/>
+
+    <TextView style="@style/LabelStyle" android:text="Cách chữa (cachChua):" android:layout_marginTop="10dp"/>
+    <EditText
+        android:id="@+id/edtDialogCachChua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minLines="3" android:gravity="top"/>
+
+</LinearLayout>

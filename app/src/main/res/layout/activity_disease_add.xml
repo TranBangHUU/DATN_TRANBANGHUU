@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DiseaseDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView style="@style/LabelStyle" android:text="ID Bệnh (Ví dụ: Apple___scab):" />
+        <EditText
+            android:id="@+id/edtDiseaseId"
+            style="@style/InputStyle"
+            android:inputType="textCapWords"
+            tools:hint="Corn___Common_rust" />
+
+        <TextView style="@style/LabelStyle" android:text="Tên hiển thị (ten):" />
+        <EditText
+            android:id="@+id/edtTen"
+            style="@style/InputStyle"
+            android:inputType="textCapSentences"
+            tools:hint="Ngô (Gỉ sắt thường)" />
+
+        <TextView style="@style/LabelStyle" android:text="Mô tả bệnh (moTa):" />
+        <EditText
+            android:id="@+id/edtMoTa"
+            style="@style/InputStyle"
+            android:inputType="textMultiLine"
+            android:minLines="3"
+            tools:hint="Mô tả chi tiết bệnh..." />
+
+        <TextView style="@style/LabelStyle" android:text="Cách chữa (cachChua):" />
+        <EditText
+            android:id="@+id/edtCachChua"
+            style="@style/InputStyle"
+            android:inputType="textMultiLine"
+            android:minLines="3"
+            tools:hint="Các bước điều trị, phòng ngừa..." />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="LƯU BỆNH MỚI"
+            android:backgroundTint="#4CAF50"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</ScrollView>

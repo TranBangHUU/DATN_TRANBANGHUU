@@ -1,0 +1,254 @@
+{
+  "Apple___Apple_scab": {
+    "id": "Apple___Apple_scab",
+    "ten": "Táo (Apple Scab - Ghẻ táo)",
+    "moTa": "Bệnh do nấm Venturia inaequalis gây ra. Bệnh xuất hiện dưới dạng các đốm tròn, màu xanh ô liu, có viền lông tơ trên lá. Khi các đốm này phát triển, chúng sẽ chuyển sang màu nâu sẫm đến đen và kết hợp lại với nhau. Trên quả, các đốm có màu xanh ô liu sau đó chuyển thành màu nâu và có kết cấu sần sùi. Quả non bị nhiễm bệnh có thể bị biến dạng và nứt khi lớn lên.",
+    "cachChua": "Trồng các giống táo kháng bệnh. Sử dụng thuốc diệt nấm đúng thời điểm. Loại bỏ lá rụng và các mảnh vụn của cây bệnh. Tỉa cây để tạo tán cây thông thoáng, giúp lá khô nhanh hơn, từ đó giảm mức độ nghiêm trọng của bệnh."
+  },
+  "Apple___Black_rot": {
+    "id": "Apple___Black_rot",
+    "ten": "Táo (Black Rot - Thối đen)",
+    "moTa": "Đây là bệnh do nấm và có thể gây thiệt hại nghiêm trọng ở các vườn táo tại những khu vực ấm áp, ẩm ướt. Bệnh gây ra các đốm màu đỏ nâu ở vỏ cây, tạo thành các vết loét. Lá bị nhiễm bệnh nặng sẽ bị vàng và rụng. Trên quả, bệnh khởi đầu là những đốm màu đỏ, sau đó các khu vực bị nhiễm bệnh chuyển thành màu đen, có hình dạng không đều và đôi khi được bao quanh bởi một vòng màu đỏ.",
+    "cachChua": "Dữ liệu đã tìm thấy không cung cấp phương pháp điều trị cụ thể mà chủ yếu mô tả về bệnh. Để phòng ngừa, cần kiểm soát độ ẩm và nhiệt độ trong vườn cây."
+  },
+  "Apple___Cedar_apple_rust": {
+    "id": "Apple___Cedar_apple_rust",
+    "ten": "Táo (Cedar Apple Rust - Gỉ sắt tuyết tùng)",
+    "moTa": "Đây là một loại nấm gây bệnh phổ biến ở phía đông Bắc Mỹ. Nấm này mọc trên cây bách xù (cedar) và lây nhiễm sang cây táo. Bệnh tạo ra các đốm màu vàng đến cam trên lá hoặc quả. Cây táo bị nhiễm bệnh nặng có thể bị vàng lá do có nhiều tổn thương.",
+    "cachChua": "Trồng giống cây kháng bệnh. Cần chặt bỏ cây bách xù trong bán kính 2-3 dặm xung quanh vườn táo. Sử dụng thuốc diệt nấm để ngăn chặn sự lây lan của nấm trên cây táo."
+  },
+  "Apple___healthy": {
+    "id": "Apple___healthy",
+    "ten": "Táo (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "banana_cordana": {
+    "id": "banana_cordana",
+    "ten": "Chuối (Cordana - Bệnh lá chuối Cordana)",
+    "moTa": "Bệnh do nấm Cordana musae gây ra, xuất hiện dưới dạng các đốm hình bầu dục, màu nâu nhạt, và đôi khi là các dải mô hoại tử màu nâu nhạt kéo dài từ mép lá đến gân lá giữa. Các khu vực bị nhiễm bệnh thường được bao quanh bởi một vùng màu vàng hoặc cam sáng, làm cho lá bị bệnh dễ nhận thấy.",
+    "cachChua": "Sử dụng thuốc diệt nấm như Mancozeb DG hoặc Copper Oxychloride để kiểm soát nấm."
+  },
+  "banana_healthy": {
+    "id": "banana_healthy",
+    "ten": "Chuối (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Blueberry___healthy": {
+    "id": "Blueberry___healthy",
+    "ten": "Việt quất (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Cherry___Powdery_mildew": {
+    "id": "Cherry___Powdery_mildew",
+    "ten": "Anh đào (Powdery Mildew - Bệnh phấn trắng)",
+    "moTa": "Bệnh phấn trắng là một bệnh nấm phổ biến gây ra một lớp phủ màu trắng, giống như bột trên lá, chồi và quả. Bệnh thường bắt đầu bằng các đốm nhỏ, tròn, màu trắng trên lá non. Khi bệnh tiến triển, các đốm này có thể lan rộng và kết hợp lại, phủ một lớp mốc trắng lên toàn bộ bề mặt lá. Lá có thể bị biến dạng, xoăn lại, và cuối cùng rụng sớm.",
+    "cachChua": "Trồng các giống anh đào kháng bệnh. Tỉa cành để cải thiện luồng không khí trong tán cây. Loại bỏ và tiêu hủy các lá và cành bị nhiễm bệnh. Phun thuốc diệt nấm có chứa lưu huỳnh hoặc potassium bicarbonate để kiểm soát bệnh."
+  },
+  "Coffee___red_spider_mite": {
+    "id": "Coffee___red_spider_mite",
+    "ten": "Cà phê (Red Spider Mite - Nhện đỏ)",
+    "moTa": "Nhện đỏ (Oligonychus coffeae) tấn công mặt trên của lá trưởng thành. Triệu chứng đầu tiên thường là các cụm đốm vàng trên mặt lá, làm cho lá có vẻ lốm đốm. Bệnh có thể gây ra sự thay đổi màu sắc lá ở một số loại cây.",
+    "cachChua": "Trồng cây khỏe mạnh, tránh để cây bị thiếu nước và dinh dưỡng. Sử dụng vòi phun nước mạnh để xịt vào cây, đặc biệt là mặt dưới của lá để loại bỏ nhện và mạng nhện."
+  },
+  "Coffee___leaf_rust": {
+    "id": "Coffee___leaf_rust",
+    "ten": "Cà phê (Coffee Leaf Rust - Rỉ sắt lá cà phê)",
+    "moTa": "Bệnh rỉ sắt lá cà phê là một bệnh rất nghiêm trọng, được nhận biết bằng các đốm màu vàng, có dạng bột ở mặt dưới của lá. Lá bị nhiễm bệnh sẽ rụng, dẫn đến cành cây chết và làm giảm năng suất lên đến 70% trong trường hợp nặng.",
+    "cachChua": "Trồng cây ở khoảng cách hợp lý và tỉa cây để tạo sự thông thoáng, không thuận lợi cho nấm phát triển. Sử dụng thuốc diệt nấm gốc đồng (copper oxychloride) để phòng ngừa. Khi bệnh đã phát triển, có thể sử dụng cyproconazole và phun ở mặt dưới của lá."
+  },
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "id": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "ten": "Ngô (Cercospora Leaf Spot Gray Leaf Spot - Đốm lá Cercospora)",
+    "moTa": "Bệnh đốm lá xám (GLS) là một bệnh nấm trên lá ngô. Triệu chứng là các tổn thương hình chữ nhật, màu nâu đến xám, chạy song song với các gân lá. Bệnh phát triển mạnh trong điều kiện độ ẩm tương đối cao và có nước đọng trên lá do sương mù, sương hoặc mưa nhẹ.",
+    "cachChua": "Trồng giống ngô kháng bệnh. Luân canh cây trồng. Sử dụng thuốc diệt nấm. Kiểm soát cỏ dại."
+  },
+  "Corn___Common_rust": {
+    "id": "Corn___Common_rust",
+    "ten": "Ngô (Common Rust - Gỉ sắt thông thường)",
+    "moTa": "Bệnh do nấm Puccinia sorghi gây ra. Các triệu chứng sớm là các đốm vàng nhạt trên bề mặt lá, sau đó phát triển thành các mụn mủ màu đỏ gạch, có dạng bột khi bào tử nấm phá vỡ bề mặt lá.",
+    "cachChua": "Bệnh thường không đáng lo ngại ở ngô lai. Có thể sử dụng các giống ngô lai kháng bệnh và thuốc diệt nấm chuyên dụng."
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "id": "Corn___Northern_Leaf_Blight",
+    "ten": "Ngô (Northern Leaf Blight - Cháy lá phương bắc)",
+    "moTa": "Bệnh do nấm Exserohilum turcicum gây ra. Bệnh lây nhiễm khi có nước đọng trên bề mặt lá từ 6 đến 18 giờ và nhiệt độ từ 65 đến 80°F (18-27°C). Bệnh thường bắt đầu ở các lá thấp hơn và sau đó lan lên phía trên cây.",
+    "cachChua": "Chọn giống ngô kháng bệnh. Giảm tàn dư ngô bằng cách luân canh hoặc cày xới. Sử dụng thuốc diệt nấm lá."
+  },
+  "Grape___Black_rot": {
+    "id": "Grape___Black_rot",
+    "ten": "Nho (Black Rot - Thối đen)",
+    "moTa": "Đây là một bệnh nghiêm trọng do nấm Guignardia bidwellii gây ra, đặc biệt tàn phá trong mùa ấm, ẩm ướt. Bệnh tấn công tất cả các bộ phận xanh của cây nho. Các đốm tròn màu nâu đỏ xuất hiện trên mặt trên của lá. Trên quả, một đốm nhỏ sẽ xuất hiện và phát triển thành hình tròn, màu nâu vàng nhạt. Sau đó, toàn bộ quả nho sẽ chuyển sang màu đen than, cứng và bị khô lại.",
+    "cachChua": "Trồng cây ở vị trí đầy đủ ánh nắng và có luồng không khí tốt. Loại bỏ các quả nho bị bệnh hoặc cành bị nhiễm bệnh để giảm lượng nấm gây bệnh."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "id": "Grape___Esca_(Black_Measles)",
+    "ten": "Nho (Esca / Black Measles - Bệnh đen lá)",
+    "moTa": "Esca, còn được gọi là \"bệnh sởi nho\" hoặc \"nhựa đen\". Các triệu chứng giống như sởi (các đốm đen với quầng tím) xuất hiện trên quả. Trên lá, bệnh xuất hiện dưới dạng các mô hoại tử xen kẽ các gân lá, có màu vàng hoặc đỏ.",
+    "cachChua": "Phòng ngừa là cách tốt nhất, đặc biệt là vào thời điểm tỉa cành vào mùa đông. Sử dụng sơn có chứa boron để bảo vệ vết thương khi tỉa cành. Tránh tỉa cành trước những ngày mưa."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "id": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "ten": "Nho (Leaf Blight - Cháy lá)",
+    "moTa": "Cháy lá nho là một bệnh nấm gây ra các đốm đỏ trên bề mặt trên của lá non. Các đốm này mở rộng và chuyển sang màu nâu vàng nhạt với viền sẫm màu. Bệnh này thường gây nhầm lẫn với bệnh sương mai (downy mildew).",
+    "cachChua": "Loại bỏ và tiêu hủy các lá và chồi bị nhiễm bệnh. Sử dụng thuốc diệt nấm để kiểm soát bệnh. Đảm bảo vườn cây có sự thông thoáng và không gian đủ để hạn chế độ ẩm."
+  },
+  "Groundnut_Early_leaf_spot": {
+    "id": "Groundnut_Early_leaf_spot",
+    "ten": "Lạc/Đậu phộng (Early Leaf Spot - Đốm lá sớm)",
+    "moTa": "Bệnh gây ra các đốm trên lá, thân và cuống lá, dẫn đến rụng lá và giảm năng suất. Các đốm lá sớm có màu nâu và có quầng sáng màu vàng.",
+    "cachChua": "Trồng các giống cây kháng bệnh, giống cây cho năng suất sớm. Luân canh cây trồng ít nhất một năm. Loại bỏ các cây bị bệnh và cỏ dại. Sử dụng thuốc diệt nấm chlorothalonil hoặc mancozeb."
+  },
+  "Groundnut_Late_leaf_spot": {
+    "id": "Groundnut_Late_leaf_spot",
+    "ten": "Lạc/Đậu phộng (Late Leaf Spot - Đốm lá muộn)",
+    "moTa": "Bệnh do nấm Cercosporidium personatum gây ra. Các đốm bệnh thường có màu đen hoặc nâu sẫm, tròn và có kích thước nhỏ hơn đốm lá sớm. Các bào tử nấm dày đặc thường tạo thành các vòng tròn đồng tâm ở mặt dưới của lá. Bệnh này cũng gây rụng lá sớm và giảm năng suất.",
+    "cachChua": "Sử dụng các giống cây trồng kháng bệnh. Luân canh cây trồng và loại bỏ tàn dư thực vật để giảm nguồn nấm bệnh. Sử dụng thuốc diệt nấm như Tebuconazole hoặc Propiconazole."
+  },
+  "Mango_anthracnose_test": {
+    "id": "Mango_anthracnose_test",
+    "ten": "Xoài (Anthracnose - Thán thư)",
+    "moTa": "Thán thư là một trong những bệnh xoài nghiêm trọng nhất. Các đốm lá thường xảy ra gần mép lá. Bệnh gây ra các vết loét lớn, lõm, màu đen trên quả non và quả bị nhiễm bệnh cuối cùng sẽ rụng khỏi cây. Trên quả chín, bệnh đặc trưng bởi các đốm xám-đen lõm trên da.",
+    "cachChua": "Phun thuốc diệt nấm gốc đồng để kiểm soát bệnh."
+  },
+  "Orange_Huanglongbing_(Citrus_greening)": {
+    "id": "Orange_Huanglongbing_(Citrus_greening)",
+    "ten": "Cam (Huanglongbing - Vàng lá Greening)",
+    "moTa": "Đây là một bệnh do vi khuẩn, một trong những bệnh cam nghiêm trọng nhất trên thế giới. Sau khi bị nhiễm, hầu hết cây sẽ chết trong vài năm. Cây bị bệnh sẽ cho quả có màu sắc kém, có thể bị méo và vị đắng. Lá có thể xuất hiện các mảng loang lổ bất đối xứng.",
+    "cachChua": "Hiện tại không có cách chữa trị hay điều trị cho bệnh vàng lá greening. Cách tốt nhất để ngăn chặn bệnh là phòng ngừa sự lây lan của rầy chổng cánh châu Á (Asian citrus psyllid), loài côn trùng lây bệnh."
+  },
+  "Peach___Bacterial_spot": {
+    "id": "Peach___Bacterial_spot",
+    "ten": "Đào (Bacterial Spot - Đốm vi khuẩn)",
+    "moTa": "Bệnh này có thể ảnh hưởng đến lá, cành con và quả của cây đào. Trên lá, các triệu chứng ban đầu là các tổn thương nhỏ, ướt và sau đó chuyển sang màu nâu đỏ hoặc đen. Các tổn thương này thường xuất hiện dọc theo gân lá giữa và ở đầu lá. Trên quả, các đốm ướt nhỏ có thể phát triển ở bất kỳ giai đoạn nào của quả.",
+    "cachChua": "Sử dụng thuốc trừ sâu có hiệu quả chống lại vi khuẩn từ cuối giai đoạn ngủ đông cho đến khi quả non hình thành. Cây trồng trên đất cát và cây bị căng thẳng thường bị bệnh nặng hơn. Trồng các giống cây kháng bệnh hoặc ít mẫn cảm với bệnh đốm vi khuẩn."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "id": "Pepper,_bell___Bacterial_spot",
+    "ten": "Ớt chuông (Bacterial Spot - Đốm vi khuẩn)",
+    "moTa": "Bệnh do vi khuẩn Xanthomonas gây ra. Các triệu chứng xuất hiện dưới dạng các đốm ướt, chuyển từ màu xanh lá cây sang nâu sẫm khi bệnh tiến triển.",
+    "cachChua": "Xử lý hạt giống bằng thuốc tẩy. Sử dụng thuốc xịt chứa streptomycin hoặc đồng (copper). Sử dụng các sản phẩm kích hoạt cây trồng có thể gây ra hệ thống kháng bệnh ở cây."
+  },
+  "Potato_early_blight_test": {
+    "id": "Potato_early_blight_test",
+    "ten": "Khoai tây (Early Blight - Bệnh đốm vòng)",
+    "moTa": "Bệnh đốm vòng do nấm Alternaria solani gây ra, thường tấn công cây khoai tây khi chúng đã trưởng thành. Các triệu chứng xuất hiện trên lá dưới cùng trước, là những đốm tròn màu nâu sẫm hoặc đen, có hình dạng giống mục tiêu (target spot) với các vòng tròn đồng tâm. Lá bị nhiễm bệnh nặng sẽ chuyển sang màu vàng và rụng.",
+    "cachChua": "Luân canh cây trồng để tránh tích tụ mầm bệnh trong đất. Sử dụng thuốc diệt nấm có chứa mancozeb, chlorothalonil hoặc azoxystrobin. Đảm bảo cây được tưới đủ nước và bón phân cân đối để cây khỏe mạnh."
+  },
+  "Potato_late_blight_test": {
+    "id": "Potato_late_blight_test",
+    "ten": "Khoai tây (Late Blight - Bệnh sương mai)",
+    "moTa": "Bệnh sương mai do nấm Phytophthora infestans gây ra, là một bệnh phá hoại nghiêm trọng. Bệnh xuất hiện các đốm màu xanh xám hoặc nâu trên lá và thân, thường bắt đầu ở rìa lá. Khi thời tiết ẩm ướt, một lớp nấm trắng, mỏng có thể xuất hiện ở mặt dưới của lá. Bệnh có thể lan nhanh chóng và làm hỏng toàn bộ vụ mùa.",
+    "cachChua": "Sử dụng thuốc diệt nấm phòng ngừa như đồng (copper) hoặc mancozeb. Trồng các giống khoai tây kháng bệnh. Loại bỏ và tiêu hủy các cây bị nhiễm bệnh."
+  },
+  "Raspberry___healthy": {
+    "id": "Raspberry___healthy",
+    "ten": "Mâm xôi (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Soybean___healthy": {
+    "id": "Soybean___healthy",
+    "ten": "Đậu nành (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Squash___Powdery_mildew": {
+    "id": "Squash___Powdery_mildew",
+    "ten": "Bí (Powdery Mildew - Bệnh phấn trắng)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Strawberry___Leaf_scorch": {
+    "id": "Strawberry___Leaf_scorch",
+    "ten": "Dâu tây (Leaf Scorch - Cháy lá)",
+    "moTa": "Bệnh do nấm Diplocarpon earlianum gây ra. Triệu chứng ban đầu là các đốm nhỏ, màu tía đến nâu đỏ, không đều trên lá. Các đốm này có thể kết hợp lại, tạo thành những mảng lớn, khô, làm cho lá trông như bị cháy sém. Bệnh nặng có thể làm giảm sức sống của cây và giảm năng suất quả.",
+    "cachChua": "Loại bỏ các lá bị nhiễm bệnh. Cải thiện luồng không khí trong luống dâu tây. Sử dụng thuốc diệt nấm để kiểm soát bệnh."
+  },
+  "Tomato___Bacterial_spot": {
+    "id": "Tomato___Bacterial_spot",
+    "ten": "Cà chua (Bacterial Spot - Đốm vi khuẩn)",
+    "moTa": "Bệnh do vi khuẩn Xanthomonas gây ra. Các đốm nhỏ, màu nâu hoặc đen, có quầng sáng màu vàng xuất hiện trên lá. Trên quả, bệnh gây ra các đốm đen, sần sùi.",
+    "cachChua": "Phun thuốc diệt khuẩn gốc đồng, sử dụng hạt giống sạch bệnh và luân canh cây trồng."
+  },
+  "Tomato___Early_blight": {
+    "id": "Tomato___Early_blight",
+    "ten": "Cà chua (Early Blight - Bệnh đốm vòng sớm)",
+    "moTa": "Tương tự như khoai tây, bệnh này gây ra các đốm có hình dạng giống mục tiêu với các vòng đồng tâm trên lá, thường bắt đầu từ lá dưới cùng.",
+    "cachChua": "Loại bỏ lá bị nhiễm bệnh. Phun thuốc diệt nấm và luân canh cây trồng."
+  },
+  "Tomato___Late_blight": {
+    "id": "Tomato___Late_blight",
+    "ten": "Cà chua (Late Blight - Bệnh sương mai)",
+    "moTa": "Tương tự như khoai tây, bệnh này gây ra các đốm màu xanh xám trên lá, thường được bao phủ bởi lớp nấm trắng, và có thể nhanh chóng làm thối rữa quả.",
+    "cachChua": "Sử dụng thuốc diệt nấm phòng ngừa và loại bỏ các cây bị nhiễm bệnh."
+  },
+  "Tomato___Leaf_Mold": {
+    "id": "Tomato___Leaf_Mold",
+    "ten": "Cà chua (Leaf Mold - Mốc lá)",
+    "moTa": "Bệnh do nấm Fulvia fulva gây ra. Các đốm màu vàng nhạt xuất hiện trên mặt trên của lá, trong khi một lớp nấm màu xám hoặc nâu, giống như nhung xuất hiện ở mặt dưới.",
+    "cachChua": "Đảm bảo luồng không khí tốt. Giảm độ ẩm trong nhà kính hoặc khu vực trồng. Sử dụng thuốc diệt nấm."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "id": "Tomato___Septoria_leaf_spot",
+    "ten": "Cà chua (Septoria Leaf Spot - Đốm lá Septoria)",
+    "moTa": "Bệnh do nấm Septoria lycopersici gây ra. Các đốm nhỏ, tròn, màu xám hoặc nâu với viền màu đen xuất hiện trên lá dưới cùng. Khi bệnh nặng, lá có thể rụng.",
+    "cachChua": "Sử dụng thuốc diệt nấm. Loại bỏ và tiêu hủy lá bị nhiễm bệnh. Tránh tưới nước lên lá."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "id": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "ten": "Cà chua (Spider Mites - Nhện nhện)",
+    "moTa": "Nhện nhện là loài gây hại, không phải bệnh nấm. Chúng hút nhựa cây, làm lá có đốm lốm đốm màu vàng, sau đó có thể chuyển sang màu đồng và cuối cùng rụng.",
+    "cachChua": "Phun nước mạnh vào cây để loại bỏ nhện, sử dụng xà phòng diệt côn trùng hoặc dầu neem."
+  },
+  "Tomato___Target_Spot": {
+    "id": "Tomato___Target_Spot",
+    "ten": "Cà chua (Target Spot - Đốm mục tiêu)",
+    "moTa": "Bệnh do nấm Corynespora cassiicola gây ra. Các đốm nhỏ, tròn, màu nâu với các vòng đồng tâm, giống như mục tiêu xuất hiện trên lá và quả.",
+    "cachChua": "Sử dụng thuốc diệt nấm và luân canh cây trồng."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "id": "Tomato___Tomato_mosaic_virus",
+    "ten": "Cà chua (Tomato Mosaic Virus - Virus khảm)",
+    "moTa": "Virus khảm gây ra các triệu chứng như lá bị biến dạng, đốm vàng và xanh lá cây xen kẽ nhau (giống như khảm), và cây bị còi cọc.",
+    "cachChua": "Không có cách chữa trị. Cần loại bỏ và tiêu hủy cây bị nhiễm bệnh."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "id": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "ten": "Cà chua (Yellow Leaf Curl Virus - Virus xoăn lá vàng)",
+    "moTa": "Virus này do rầy trắng (whitefly) lây lan. Triệu chứng là lá non bị xoăn lên và chuyển sang màu vàng, cây bị còi cọc và giảm năng suất quả nghiêm trọng.",
+    "cachChua": "Không có cách chữa trị. Phòng ngừa lây lan bằng cách kiểm soát rầy trắng."
+  },
+  "Tomato___healthy": {
+    "id": "Tomato___healthy",
+    "ten": "Cà chua (Healthy - Khỏe mạnh)",
+    "moTa": "Không có thông tin.",
+    "cachChua": "Không có thông tin."
+  },
+  "Wheat_black_rust": {
+    "id": "Wheat_black_rust_test",
+    "ten": "Lúa mì (Black Rust - Rỉ sắt đen)",
+    "moTa": "Bệnh do nấm Puccinia graminis gây ra. Các mụn mủ màu nâu đỏ xuất hiện trên thân và bẹ lá, sau đó chuyển sang màu đen khi bào tử chín.",
+    "cachChua": "Trồng giống lúa mì kháng bệnh và sử dụng thuốc diệt nấm."
+  },
+  "Wheat_brown_rust": {
+    "id": "Wheat_brown_rust_test",
+    "ten": "Lúa mì (Brown Rust - Rỉ sắt nâu)",
+    "moTa": "Bệnh do nấm Puccinia triticina gây ra. Các mụn mủ màu cam đến nâu, tròn, xuất hiện trên lá.",
+    "cachChua": "Trồng giống lúa mì kháng bệnh và sử dụng thuốc diệt nấm."
+  },
+  "Wheat_yellow_rust": {
+    "id": "Wheat_yellow_rust_test",
+    "ten": "Lúa mì (Yellow Rust - Rỉ sắt vàng)",
+    "moTa": "Bệnh do nấm Puccinia striiformis gây ra. Các mụn mủ màu vàng tươi, nhỏ, tạo thành các vệt dài, song song dọc theo gân lá.",
+    "cachChua": "Trồng giống lúa mì kháng bệnh và sử dụng thuốc diệt nấm."
+  },
+  "Wheat_healthy": {
+    "id": "Wheat_healthy_test",
+    "ten": "Lúa mì (Healthy - Khỏe mạnh)",
+    "moTa": "Mô tả đang cập nhật...",
+    "cachChua": "Cách chữa trị đang cập nhật..."
+  }
+}

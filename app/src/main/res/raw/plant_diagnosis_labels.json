@@ -1,0 +1,273 @@
+{
+  "plant_diagnosis_labels": {
+    "APPLE": {
+      "sl": 3,
+      "image": "image_apple",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Apple___Apple_scab",
+          "diseaseName": "Ghẻ táo (Apple Scab)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Apple___Black_rot",
+          "diseaseName": "Thối đen (Black Rot)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Apple___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "BLUEBERRY": {
+      "sl": 1,
+      "image": "image_blueberry",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Blueberry___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "CHERRY": {
+      "sl": 2,
+      "image": "image_cherry",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Cherry___Powdery_mildew",
+          "diseaseName": "Bệnh phấn trắng",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Cherry___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "CORN": {
+      "sl": 3,
+      "image": "image_corn",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+          "diseaseName": "Đốm lá xám (Cercospora/Gray Leaf Spot)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Corn___Common_rust_",
+          "diseaseName": "Gỉ sắt thường (Common Rust)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Corn___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "GRAPE": {
+      "sl": 3,
+      "image": "image_grape",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Grape___Esca_(Black_Measles)",
+          "diseaseName": "Esca (Bệnh sởi đen)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Grape___Leaf_blight",
+          "diseaseName": "Bệnh cháy lá",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Grape___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "GROUNDNUT": {
+      "sl": 2,
+      "image": "image_groundnut",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Groundnut_early_leaf_spot",
+          "diseaseName": "Đốm lá sớm",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Groundnut_healthy_leaf",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "ORANGE": {
+      "sl": 1,
+      "image": "image_orange",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Orange___Haunglongbing",
+          "diseaseName": "Bệnh vàng lá Greening",
+          "isHealthy": false
+        }
+      ]
+    },
+
+    "PEACH": {
+      "sl": 2,
+      "image": "image_peach",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Peach___Bacterial_spot",
+          "diseaseName": "Đốm khuẩn (Bacterial Spot)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Peach___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "PEPPER_BELL": {
+      "sl": 2,
+      "image": "image_pepper_bell",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Pepper_bell___Bacterial_spot",
+          "diseaseName": "Đốm khuẩn",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Pepper_bell___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "POTATO": {
+      "sl": 3,
+      "image": "image_potato",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Potato___Early_blight",
+          "diseaseName": "Bệnh cháy sớm",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Potato___Late_blight",
+          "diseaseName": "Bệnh cháy muộn",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Potato___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "RASPBERRY": {
+      "sl": 1,
+      "image": "image_raspberry",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Raspberry___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "SOYBEAN": {
+      "sl": 1,
+      "image": "image_soybean",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Soybean___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "SQUASH": {
+      "sl": 1,
+      "image": "image_squash",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Squash___Powdery_mildew",
+          "diseaseName": "Bệnh phấn trắng",
+          "isHealthy": false
+        }
+      ]
+    },
+
+    "STRAWBERRY": {
+      "sl": 2,
+      "image": "image_strawberry",
+      "type": "fruit",
+      "items": [
+        {
+          "diseaseId": "Strawberry___Leaf_scorch",
+          "diseaseName": "Bệnh cháy lá (Leaf Scorch)",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Strawberry___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    },
+
+    "TOMATO": {
+      "sl": 3,
+      "image": "image_tomato",
+      "type": "vegetable",
+      "items": [
+        {
+          "diseaseId": "Tomato___Septoria_leaf_spot",
+          "diseaseName": "Đốm lá Septoria",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Tomato___Tomato_mosaic_virus",
+          "diseaseName": "Virus khảm cà chua",
+          "isHealthy": false
+        },
+        {
+          "diseaseId": "Tomato___healthy",
+          "diseaseName": "Lá khỏe mạnh",
+          "isHealthy": true
+        }
+      ]
+    }
+  }
+}
