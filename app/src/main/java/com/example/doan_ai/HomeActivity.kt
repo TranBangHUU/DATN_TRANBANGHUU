@@ -21,6 +21,9 @@ import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.QuerySnapshot
 import com.google.gson.Gson
 import android.util.Log
+import com.google.android.gms.auth.api.signin.GoogleSignIn
+import com.google.android.gms.auth.api.signin.GoogleSignInClient
+import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 
 
 class HomeActivity : AppCompatActivity() {
@@ -41,6 +44,7 @@ class HomeActivity : AppCompatActivity() {
     private lateinit var userProfileArea: View
     private lateinit var tvUserDisplay: TextView
     private lateinit var btnUserProfileIcon: ImageButton
+    private lateinit var googleSignInClient: GoogleSignInClient
 
     private val handler = Handler(Looper.getMainLooper())
     private var runnable: Runnable? = null
@@ -68,6 +72,11 @@ class HomeActivity : AppCompatActivity() {
         rvFruitScope = findViewById(R.id.rvFruitScope)
         rvVegetableScope = findViewById(R.id.rvVegetableScope)
         btnStartDiagnosis = findViewById(R.id.btnStartDiagnosis)
+        val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+            .requestIdToken(getString(R.string.default_web_client_id))
+            .requestEmail()
+            .build()
+        googleSignInClient = GoogleSignIn.getClient(this, gso)
 
         // Ánh xạ Views cho Profile
         val tempBtn = findViewById<ImageButton>(R.id.btnUserLogin)
@@ -133,7 +142,10 @@ class HomeActivity : AppCompatActivity() {
                 R.id.menu_logout -> {
                     auth.signOut()
                     updateUserDisplay()
-                    Toast.makeText(this, "Đăng xuất thành công", Toast.LENGTH_SHORT).show()
+                    googleSignInClient.revokeAccess().addOnCompleteListener {
+                        updateUserDisplay()
+                        Toast.makeText(this, "Đăng xuất thành công", Toast.LENGTH_SHORT).show()
+                    }
                     return@setOnMenuItemClickListener true
                 }
                 R.id.menu_history -> {
@@ -163,7 +175,6 @@ class HomeActivity : AppCompatActivity() {
     }
 
     private fun setupAutoScroll(numPages: Int) {
-        // ... (Logic tự động cuộn) ...
         runnable?.let { handler.removeCallbacks(it) }
         runnable = object : Runnable {
             override fun run() {
